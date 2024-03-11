@@ -1,3 +1,8 @@
+-- Made By https://lmaobox.net/forum/v/profile/34545496/somefemboy5141
+--          @
+--      11/03/2024
+
+
 local botnames = {
     "OMEGATRONIC", 
     "HEXATRONIC", 
